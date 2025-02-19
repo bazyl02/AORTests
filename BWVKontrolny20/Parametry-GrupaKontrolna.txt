@@ -1,0 +1,6 @@
+ToneChance:0
+ToneValue:0
+TimeChance:0
+TimeValue:0
+DeleteChance:0
+FileNum:1
